@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nice-apartment]]></title>
-        <description><![CDATA[nice-apartment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Old Town Apartment for Rent]]></title>
+        <description><![CDATA[Old Town Apartment for Rent]]></description>
+        <link>https://thegrid.ai/nice-apartment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 20:38:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 20:54:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nice-apartment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Description]]></title>
-            <description><![CDATA[<article><h1>Description</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/987a2fd4eb31c4a4fc11f013e6be56e22eb4ef7d.jpg"></article>]]></description>
-            <link>undefineddescription/index.html</link>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Description</p></article>]]></description>
+            <link>https://thegrid.ai/nice-apartment/description/index.html</link>
             <guid isPermaLink="false">77ee554c-f72a-4988-ae43-b95bfd41a26e</guid>
-            <pubDate>Mon, 04 Jan 2016 20:37:59 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plan]]></title>
+            <description><![CDATA[<article><h1>Plan</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a228e950d5cb1cce5f45081acc1c901d47845ed8.png"></article>]]></description>
+            <link>https://thegrid.ai/nice-apartment/plan/index.html</link>
+            <guid isPermaLink="false">9af59b08-7d09-4d32-85a3-68125d75464b</guid>
+            <pubDate>Mon, 04 Jan 2016 20:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
