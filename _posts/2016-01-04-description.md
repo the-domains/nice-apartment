@@ -3,31 +3,30 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-04T20:37:59.709Z'
-dateModified: '2016-01-04T20:37:36.540Z'
-title: Description
+description: Charming 2 rooms plus dining room apartment in Nice Old Town
+datePublished: '2016-01-04T20:54:00.107Z'
+dateModified: '2016-01-04T20:52:02.483Z'
+title: Home
 author: []
+sourcePath: _posts/2016-01-04-description.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-description.md
-published: true
 url: description/index.html
 _type: Article
 
 ---
-null
-null
+**Description**
 
 Charming apartment of 54 square meters in the core of the Vieux Nice (Old Nice), a few steps away from Place Rossetti and 3 minutes walk from Cours Saleya and the seaside. Nice view on the roofs and Sante Reparate cathedral.
 
 2 rooms, dining room with kitchen, bathroom with large shower, separate toilet.
 
 3rd floor with elevator, nice high ceilings. Freshly renovated.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65106c52-4811-4986-8b2c-51fdab72569d.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d1f7adc388ba0f7a5e1d1d5c2b42e362/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F987a2fd4eb31c4a4fc11f013e6be56e22eb4ef7d.jpg)
