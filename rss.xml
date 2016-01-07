@@ -4,14 +4,21 @@
         <description><![CDATA[Old Town Apartment for Rent]]></description>
         <link>https://thegrid.ai/nice-apartment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 08:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 08:42:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nice-apartment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Charming 2 rooms plus dining room apartment in Nice Old Town</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bb753ad9ba7db7e45a84ad8ff2e38c30503b467.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>Charming apartment of 3 rooms, composed of 2 bedrooms, a dining room with kitchen, bathroom with large shower, separate toilet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bb753ad9ba7db7e45a84ad8ff2e38c30503b467.jpg"></article>]]></description>
             <link>https://thegrid.ai/nice-apartment/description/index.html</link>
             <guid isPermaLink="false">77ee554c-f72a-4988-ae43-b95bfd41a26e</guid>
             <pubDate>Tue, 05 Jan 2016 08:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bathroom]]></title>
+            <description><![CDATA[<article><h1>Bathroom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7da7b9f47df000eb8e44e3c0f39dfc5779b41230.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nice-apartment/bathroom/index.html</link>
+            <guid isPermaLink="false">dbb83f8d-b75b-42ba-802c-4e4a70553b7f</guid>
+            <pubDate>Thu, 07 Jan 2016 08:42:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
